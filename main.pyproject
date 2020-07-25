@@ -1,0 +1,3 @@
+{
+    "files": ["src/python/DipSimComputor.py","ressource.qrc","src/python/Dipole.py","main.py","main.qml","src/python/MonteCarlo.py"]
+}

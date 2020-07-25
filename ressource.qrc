@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="BurgerButton.qml">src/qml/BurgerButton.qml</file>
+        <file alias="CustomWasdController.qml">src/qml/CustomWasdController.qml</file>
+        <file alias="NanoPartModel.qml">src/qml/NanoPartModel.qml</file>
+        <file alias="View3DControlsPanel.qml">src/qml/View3DControlsPanel.qml</file>
+        <file alias="StylingBackend.qml">src/qml/StylingBackend.qml</file>
+        <file alias="View3DMod.qml">src/qml/View3DMod.qml</file>
+        <file alias="ArrowModel.qml">src/qml/ArrowModel.qml</file>
+        <file alias="View3DDipoleList">src/qml/View3DDipoleList.qml</file>
+        <file alias="LeftDrawer">src/qml/LeftDrawer.qml</file>
+        <file alias="FoldablePanel">src/qml/FoldablePanel.qml</file>
+        <file>src/qml/SettingsDrawer.qml</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="settings">ressources/icons/settings.svg</file>
+        <file alias="move">ressources/icons/move.svg</file>
+        <file alias="home">ressources/icons/home.svg</file>
+        <file alias="bottom">ressources/icons/bottom.svg</file>
+        <file alias="front">ressources/icons/front.svg</file>
+        <file alias="left">ressources/icons/left.svg</file>
+        <file alias="rear">ressources/icons/rear.svg</file>
+        <file alias="right">ressources/icons/right.svg</file>
+        <file alias="top">ressources/icons/top.svg</file>
+        <file alias="build">ressources/icons/build.svg</file>
+        <file alias="delete">ressources/icons/delete.svg</file>
+        <file alias="reset">ressources/icons/replay-arrow.svg</file>
+        <file alias="list-elements">ressources/icons/list-elements.svg</file>
+        <file alias="palette">ressources/icons/palette.svg</file>
+        <file alias="upload">ressources/icons/upload.svg</file>
+        <file alias="download">ressources/icons/download.svg</file>
+        <file alias="folder-open">ressources/icons/folder-open.svg</file>
+    </qresource>
+    <qresource prefix="/python">
+        <file>src/python/SimHypervisor.py</file>
+        <file>src/python/__init__.py</file>
+        <file>src/python/DipSim.py</file>
+        <file>src/python/DipSimUtilities.py</file>
+        <file>src/python/BravaisCells.py</file>
+    </qresource>
+</RCC>
